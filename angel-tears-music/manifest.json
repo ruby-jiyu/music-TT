@@ -1,0 +1,12 @@
+{
+  "display_name": "Angel Tears · 天使泪音乐播放器",
+  "loading_order": 20,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "You",
+  "version": "1.0.0",
+  "homePage": "https://github.com/ruby-jiyu/L",
+  "description": "天使泪主题酒馆音乐播放器，从 GitHub 仓库拉取歌单并通过酒馆 BGM 频道播放，含静音保活。"
+}
